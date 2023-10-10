@@ -1,0 +1,5 @@
+.cifuzz-build
+.cifuzz-corpus
+.cifuzz-findings
+fuzz_tests.tar.gz
+*_inputs/
